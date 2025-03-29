@@ -1,6 +1,6 @@
 package match;
 
-import Inning.Inning;
+import inning.Inning;
 import team.Team;
 
 import java.time.LocalDate;
