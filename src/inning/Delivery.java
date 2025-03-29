@@ -1,4 +1,4 @@
-package Inning;
+package inning;
 
 import team.Team;
 import team.player.Player;

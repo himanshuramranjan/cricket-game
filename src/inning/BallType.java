@@ -1,4 +1,4 @@
-package Inning;
+package inning;
 
 public enum BallType {
     WIDE_BALL,

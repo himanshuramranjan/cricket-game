@@ -1,4 +1,4 @@
-package Inning;
+package inning;
 
 public enum RunType {
     DOT(0),
