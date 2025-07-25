@@ -29,12 +29,7 @@ public class BowlingController {
             bowlerVsOver.put(currentBowler, currentBowlerTotalOvers);
             bowlingLineup.addLast(currentBowler);
         }
-
         this.currentBowler = bowlingLineup.pollFirst();
-    }
-
-    public Deque<Player> getBowlingLineup() {
-        return bowlingLineup;
     }
 
     public Map<Player, Integer> getBowlerVsOver() {
